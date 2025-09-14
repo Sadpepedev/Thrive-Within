@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,500,700');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
 
 /* Global */
 * {
@@ -7,7 +7,7 @@
 body{
   color: #090b08;
   margin:  0;
-  font-family: 'Raleway', sans-serif;
+    font-family: "DM Serif Text", serif;
   font-weight: 300;
   background-color: #376e96;
 }

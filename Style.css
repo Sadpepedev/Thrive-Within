@@ -99,7 +99,7 @@ header:before{
   height: 4em;
 }
 .toggle-menu{
-  display: block;
+  display: flex;
   font-size: 1.2em;
   align-self: center;
   cursor: pointer;
@@ -391,7 +391,7 @@ input{
     height: 10em;
   }
   .toggle-menu{
-    display: none;
+    display: flex;
   }
   .navbar{
     display: flex;
